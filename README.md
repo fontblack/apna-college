@@ -1,2 +1,2 @@
 # apna-college
-Learning react from trutorial Apna college
+Learning react from trutorial Apna college channel
